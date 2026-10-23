@@ -9,7 +9,13 @@
     "start": "node dist/server.js",
     "test": "tsx src/test/integrationTest.ts"
   },
-  "keywords": ["roadside-assistance", "dispatch", "uber-like", "express", "typescript"],
+  "keywords": [
+    "roadside-assistance",
+    "dispatch",
+    "uber-like",
+    "express",
+    "typescript"
+  ],
   "author": "resQmech Team",
   "license": "ISC",
   "dependencies": {
